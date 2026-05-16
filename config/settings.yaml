@@ -1,0 +1,12 @@
+```
+app:
+  name: sl_job
+  environment: testing
+
+scan:
+  generate_sbom: true
+  generate_report: true
+
+jobs:
+  retry_count: 3
+  timeout_seconds: 30
