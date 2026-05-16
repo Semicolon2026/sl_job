@@ -1,0 +1,5 @@
+{
+  "job_name": "dependency_scan",
+  "target": "example.com",
+  "priority": "high"
+}
